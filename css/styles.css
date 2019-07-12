@@ -78,7 +78,7 @@ a:hover{
 .col-250{
 	height: 100%;
 	width: 250px;
-	background-color: #3F51B5;
+	background-color: #263238;
 	position: fixed;
 	top: 0px;
 	left: -200px;
@@ -98,11 +98,11 @@ a:hover{
 	height: 50px;
 	text-align: center;
 	position: absolute;
-	background-color: #2196f3;
+	background-color: #F44336;
 	border-radius: 50%;
 }
 .btng:hover{
-	background-color: #03a9f4;
+	background-color: #C62828;
 }
 .btng-shadow{
 	box-shadow: 0px 4px 6px -3px #000;
@@ -116,7 +116,7 @@ a:hover{
 	width: 200px;
 	height: 100%;
 	position: absolute;
-	background-color: #303c7f;
+	background-color: #455A64;
 }
 .cv{
 	font-size: 1.2em;
@@ -139,7 +139,7 @@ a:hover{
 	line-height: 40px;
 }
 .menu li:hover{
-	background-color: #3f51b5;
+	background-color: #263238;
 }
 .menu li span{
 	position: absolute;
@@ -157,7 +157,7 @@ a:hover{
 .menu-xsm {
     position: fixed;
     z-index: 1000;
-    background: #3F51B5;
+    background: #F44336;
     bottom: 0;
 }
 .menu-xsm .container-fluid .row .col-xs-2, .menu-xsm .container-fluid .row .col-xs-1{
@@ -337,7 +337,7 @@ a.boton:hover{
 	box-shadow: inset 4px 0 0px 0px #000;
 }
 /*FIN ESTILO DE BORDE*/
-/*TAMAÑOS*/
+/*TAMAÃ‘OS*/
 .boton-bloque{
 	width: 100%;
 }
@@ -369,7 +369,7 @@ a.boton:hover{
 	background-color: #673AB7;
 }
 .bg-indigo{
-	background-color: #3F51B5 !important;
+	background-color: #F44336 !important;
 }
 .bg-azul{
 	background-color: #2196F3;
@@ -433,19 +433,19 @@ a.boton:hover{
 	color: #673AB7;
 }
 .txt-indigo{
-	color: #3F51B5;
+	color: #F44336;
 }
 .txt-indigo:hover{
-	color: #5f6fca;
+	color: #EF9A9A;
 }
 .txt-indigo:focus{
-	color: #3F51B5;
+	color: #C62828;
 }
 .txt-azul{
 	color: #2196F3;
 }
 .txt-azul-claro{
-	color: #03A9F4;
+	color: #F44336;
 }
 .txt-cian{
 	color: #00BCD4;
@@ -596,7 +596,7 @@ a.boton:hover{
 	border-radius: 0px !important;
 }
 .modal-content .modal-header{
-	background: url(../img/Backgrounds/Space.gif);
+	background: url(https://media.giphy.com/media/tvksqylToS0bC/giphy.gif);
 	background-position: center;
 	background-size: cover;
 	text-align: left;

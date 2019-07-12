@@ -6,7 +6,7 @@
 					$gradiente = "background: rgba(218,165,32,1);background: linear-gradient(to right, #FF9800 0%, #FFEB3B 100%);";
 					$color = "txt-ambar";
 				}else{
-					$gradiente = "background: #3F51B5;background: linear-gradient(to right, #3F51B5 0%, #03A9F4 100%);";
+					$gradiente = "background: #3F51B5;background: linear-gradient(to right, #D32F2F 0%, #ff3d00 100%);";
 					$color = "txt-azul-claro";
 				}
 			?>

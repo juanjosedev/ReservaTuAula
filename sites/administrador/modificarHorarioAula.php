@@ -20,7 +20,7 @@
 			</div>
 			<div class="col-xs-2">
 				<br>
-				<img src="../../img/Logo128x128.png" class="pull-right" height="50px" alt="">
+				<img src="../../img/Logo128x129.png" class="pull-right" height="50px" alt="">
 			</div>
 		</div>
 		<div class="row">
